@@ -17,15 +17,14 @@
      font-family: 'Times New Roman', serif;
 }
 .center {
-        max-width: 1080px;
-        margin: 0 auto;
-        padding: 20px;
-        text-align: center;
-        
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
     }
 text {
-     margin-left: 15px;
-     margin-right: 15px;
+      margin-left: 15px;
+      margin-right: 15px;
 body {
       background-color: #ff2025;
       margin: 0;
