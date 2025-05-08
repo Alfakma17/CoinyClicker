@@ -20,6 +20,13 @@
      margin: 0;
      color: #ec9f00;
 }
+.version {
+     font-family: bfdi;
+     font-size: 18px;
+     color: gray;
+     margin-left: 5px;
+     vertical-align: middle;
+}
 .game {
      border: none;
      width: 720px;
