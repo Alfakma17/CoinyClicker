@@ -5,11 +5,15 @@
      flex-direction: column;
      align-items: center;
 }
-.title {
+@font-face {
      font-family: bfdi;
      src: url(Fonts/Shag-Lounge.otf);
+}
+.title {
+     font-family: bfdi;
      font-size: 50px;
      margin: 0;
+     color: #ec9f00;
 }
 .game {
      border: none;
