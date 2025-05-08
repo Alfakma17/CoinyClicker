@@ -36,7 +36,7 @@
      text-align: left;
      margin: 20px;
      padding: 20px;
-     font-family: 'Times New Roman', serif;
+     font-family: bfdi;
 }
 .center {
      max-width: 1080px;
@@ -44,8 +44,8 @@
      padding: 20px;
      text-align: center;
 }
-cr {
-     font-family: 'Times New Roman', serif;
+.cr {
+     font-family: 'Open Sans', sans-serif;
 }
 h3 {
      margin-left: 15px;
