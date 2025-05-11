@@ -32,6 +32,14 @@
      width: 720px;
      height: 540px;
 }
+.note {
+     color: gray;
+     font-size: 15px;
+     text-align: left;
+     margin: 20px;
+     padding: 20px;
+     font-family: bfdi;
+}
 .name {
      text-align: left;
      margin: 20px;
@@ -55,5 +63,5 @@ body {
      background: #579ee6;
      margin: 0;
      padding: 0;
-     font-family: 'Open Sans', sans-serif;
+     font-family: bfdi;
 }
