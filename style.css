@@ -40,6 +40,14 @@
      padding: 4px;
      font-family: bfdi;
 }
+.update {
+	 color: gold;
+     text-align: left;
+	 font-size: 21px;
+     margin: 20px;
+     padding: 3px;
+     font-family: bfdi;
+}
 .name {
      text-align: left;
      margin: 20px;
