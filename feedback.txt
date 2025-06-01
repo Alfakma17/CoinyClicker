@@ -13,3 +13,4 @@ bse: game good add more
 player7332: for whatever reason the coiny upgrades are giving the wrong amount. instead of nickel giving 5 he gives 2, and the coiny factory gives 3, and nickel (with hole) gives 4. and so on.
 ianojo90thecreator: you are the best!
 player8183: fix level system right now
+alfakma17: what do you mean, where is the bug located?
