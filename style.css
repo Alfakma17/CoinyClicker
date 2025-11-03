@@ -23,6 +23,15 @@
      font-weight: normal;
      color: #0369a1;
 }
+.dsq {
+     background-color: rgba(255, 255, 255, 0.905);
+     width: 100%;
+     max-width: 640px;
+     margin: 24px;
+     margin-bottom: 32px;
+     padding: 20px;
+     border-radius: 30px;
+}
 .background {
      background-color: rgba(95, 161, 236, 0.7);
      padding: 24px;
